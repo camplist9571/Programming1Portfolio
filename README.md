@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Campbell's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/camplist9571/Programming1Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
